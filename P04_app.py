@@ -66,6 +66,6 @@ if pred_button:
     if pred is not None:
         st.markdown('##### Prediction')
         if pred == 'Fake':
-            st.error('The news article is: Fake!')
+            st.error('The news article is FAKE!')
         else:
-            st.success('The news article is: Real!')
+            st.success('The news article is REAL!')
