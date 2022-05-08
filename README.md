@@ -1,1 +1,1 @@
-# AppliedML_Final
+# Applied ML final project
